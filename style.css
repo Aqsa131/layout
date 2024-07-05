@@ -1,0 +1,64 @@
+@import url(./blog.css);
+.main{
+    width: 600px;
+    height: 400px;
+    border: 2px solid black;
+    position: relative;
+}
+/* .box{
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+    position: relative;
+    z-index: 2;
+}
+.container{
+    width: 200px;
+    height: 200px;
+    background-color:brown;
+    position: relative;
+    left: 100px;
+    top: -50px;
+    z-index:3;
+} */
+.user1, .user2, .user3, .user4, .user5, .user6, .user7, .user8, .user9{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    position: absolute;
+    top: 20px;
+}
+.user1{
+    background-color: pink;
+    left: 2%;
+}
+.user2{
+    background-color:rgb(224, 171, 180);
+    left: 10%;
+}
+.user3{
+    background-color: rgb(194, 150, 157);
+    left: 20%;
+}
+.user4{
+    background-color: rgb(161, 125, 131);
+    left: 30%;
+}.user5{
+    background-color:  rgb(143, 106, 112);
+    left: 40%;
+}.user6{
+    background-color: rgb(109, 81, 85);
+    left: 50%;
+}.user7{
+    background-color:rgb(87, 64, 68);
+    left:60%;
+}.user8{
+    background-color: rgb(63, 47, 50);
+    left: 70%;
+}.user9{
+    background-color: rgb(66, 51, 54);
+    left: 80%;
+}.user10{
+    background-color:rgb(19, 14, 15);
+    left: 900%;
+}
