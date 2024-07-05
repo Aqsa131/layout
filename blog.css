@@ -1,3 +1,23 @@
+
+.bgImage{
+    background-image: url('https://www.shutterstock.com/image-photo/landscape-imaage-sea-sunset-260nw-336142157.jpg');
+    position: relative;
+    width: 500px;
+    height: 500px;
+    background-repeat: no-repeat;
+}
+.child{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(240, 248, 255, 0.479);
+    width: 500px;
+    height: 500px;
+    
+}
 h1{
-    background-color: brown;
+    width: 500px;
+    height: 500px;
 }
